@@ -20,7 +20,7 @@ Bu proje dersplus API kullanarak 9,10,11,12.sınıf temel derslerin adını ve d
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `sınıfId`      | `string` | **Required**. https://api.dersplus.net/ogm/uniteler/get-lesson aldığınız ID. |
+| `sinifId`      | `string` | **Required**. https://api.dersplus.net/ogm/uniteler/get-lesson aldığınız ID. |
 
 #### Ders ID ile üniteleri getirme
 
